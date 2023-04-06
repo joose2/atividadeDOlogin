@@ -1,0 +1,87 @@
+body{
+    background-color: #000000;
+}
+
+.llogin{
+   
+    position: absolute;
+    width: 138px;
+    height: 17px;
+    left: 719px;
+    top: 267px;
+    
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 38px;
+    line-height: 17px;
+
+
+color: #FFFFFF;
+}
+
+.cxlogin{
+    position: absolute;
+    width: 400px;
+    height: 54px;
+    left: 719px;
+    top: 298px;
+background: #FFFFFF;
+}
+
+.lsenha{
+    position: absolute;
+    width: 138px;
+    height: 21px;
+    left: 719px;
+    top: 361px;
+    
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 17px;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.cxsenha{
+    position: absolute;
+    width: 400px;
+    height: 52px;
+    left: 719px;
+    top: 391px;
+
+background: #FFFFFF;
+}
+
+.imagem{
+    position: absolute;
+    width: 1937px;
+    height: 1891px;
+    left: -28px;
+    top: -180px;
+    
+}
+
+.acessar{
+    position: absolute;
+width: 170px;
+height: 50px;
+left: 750px;
+top: 567px;
+
+background: #fafafa;
+}
+
+.cadastrar{
+    position: absolute;
+    width: 170px;
+    height: 50px;
+    left: 948px;
+    top: 567px;
+    
+    background: #ffffff;
+}
